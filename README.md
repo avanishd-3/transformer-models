@@ -1,6 +1,6 @@
 # transformer-models
 
-Collection of transformer models (for various tasks) using PyTorch and Hugging Face.
+Collection of transformer models (and educational stuff) using PyTorch and Hugging Face.
 
 ## Models
 Rankings based on the Papers with Code leaderboard (for respective tasks) as of April 8, 2025
